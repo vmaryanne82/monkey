@@ -10,8 +10,7 @@ Set it up on the eclipse and follow the below instructions
 Maven Install
 Maven Clean
 Maven Build
- Maven Test 
- A seperate excel sheet is shared with a list of 7 test cases.
+Maven Test 
 
 #Troubleshooting
 Pom.xml has been set up with all the required jar files. However, if you experience issues, please add the jar files manually from the mvn repository and download. Please do not tamper with pom.xml. Some commands which will help is update project, refresh project, Maven build, Maven clean.
