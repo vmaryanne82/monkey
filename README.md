@@ -1,3 +1,16 @@
+#QA Automation challenge 
+#site https://www.monkeyuser.com. 
+#Build an automation suite that checks that verifies the following features:
+  - Views a random comic
+  - Views the latest comic
+  - User can view the next comic
+  - Views the history of comics
+  - Opens the comics from the following dates:
+    - December 4, 2018
+    - June 19, 2018
+    - May 30, 2017
+  - Verify a product can be added to cart and the checkout screen works
+  - Modify the automation to accept any list of dates, and verify that there are or are not comic on those dates.
 
 #Instructions
 Please install the latest Eclipse onto your Windows system
