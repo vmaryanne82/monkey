@@ -13,7 +13,7 @@
   - Modify the automation to accept any list of dates, and verify that there are or are not comic on those dates.
 
 #Instructions
-Please install the latest Eclipse onto your Windows system
+Please install the Eclipse version 2018-09 onto your Windows system
 Install JDK/JRE.
 During Eclipse set up point it towards the JDK/JRE file.
 Install TestNG from the eclipse market
