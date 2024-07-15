@@ -1,5 +1,5 @@
 class RandomScreen {
-    get myHomeTab() {
+    get randomButton() {
       return "//div.button.random";
     }
   
